@@ -7,6 +7,7 @@
 # Atalhos do IntelliJ
 
 > Referência indicada pela professora Camila Cavalcante:
+
 http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea 
 
 
